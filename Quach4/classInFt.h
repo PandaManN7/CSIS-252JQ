@@ -35,12 +35,6 @@ public:
 	bool operator >(footInType&);
 	bool operator <(footInType&);
 	
-	//If needed to add later
-	//void operator +(footInType&);
-	//void operator -(footInType&);
-	//void operator *(footInType&);
-	//void operator /(footInType&);
-	//void operator +(footInType&);
 private:
 	//Variables
 	int tmpNum=0,tmp1=0;
