@@ -1,0 +1,20 @@
+
+File:			Function:			Description:				Built by:
+------------------	------------------		------------------			----------
+main.cpp		main				main function				Johnny Q
+stacktype.h		Stack class/Queue class		Stack class/Queue class			Johnny Q/Text book
+------------------------------------------------------------------------------------------------------------------
+
+The program will show four people sitting at a table. Each person has one plate with two pancakes on top. In the middle of the table there is a rotating serving platter that only rotates one way. There are also four plates on top of the serving platter that also have two pancakes on top.
+
+You can use the make file if you'd like. Just type make and prog6.
+
+The only input required are integers that are prompted to the user. 
+
+The class for this program is the stack type that I took from the book. I did add to it, like the print and add to, and I did change it a bit for my program to run. 
+
+There is one logic error when you choose to switch to a new person, it should change the serving plate as well (since this person will be in front of a different plate than the person before them) but it does not. It continues on with the same serving plate as the person before them. I honestly didn't actually think about this until just now, while writing this. If you would like me to fix this, I can try my best to.
+
+I tested this program on someone with no knowledge of coding to test the ease of use. They helped me with spelling and other errors that I had not spotted myself, as well.
+
+
